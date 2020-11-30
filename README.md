@@ -7,6 +7,8 @@ Required Modules:
 
 -tkinter
 
+-requests
+
 
 
 
